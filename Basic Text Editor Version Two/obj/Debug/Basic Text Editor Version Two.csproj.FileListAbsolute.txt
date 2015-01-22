@@ -1,0 +1,8 @@
+c:\users\montgomr\documents\visual studio 2012\Projects\Training1\Basic Text Editor Version Two\Basic Text Editor Version Two\obj\Debug\Basic Text Editor Version Two.csprojResolveAssemblyReference.cache
+c:\users\montgomr\documents\visual studio 2012\Projects\Training1\Basic Text Editor Version Two\Basic Text Editor Version Two\obj\Debug\Basic_Text_Editor_Version_Two.Properties.Resources.resources
+c:\users\montgomr\documents\visual studio 2012\Projects\Training1\Basic Text Editor Version Two\Basic Text Editor Version Two\obj\Debug\Basic Text Editor Version Two.csproj.GenerateResource.Cache
+c:\users\montgomr\documents\visual studio 2012\Projects\Training1\Basic Text Editor Version Two\Basic Text Editor Version Two\obj\Debug\Basic_Text_Editor_Version_Two.txtMain.resources
+c:\users\montgomr\documents\visual studio 2012\Projects\Training1\Basic Text Editor Version Two\Basic Text Editor Version Two\bin\Debug\Basic Text Editor Version Two.exe
+c:\users\montgomr\documents\visual studio 2012\Projects\Training1\Basic Text Editor Version Two\Basic Text Editor Version Two\bin\Debug\Basic Text Editor Version Two.pdb
+c:\users\montgomr\documents\visual studio 2012\Projects\Training1\Basic Text Editor Version Two\Basic Text Editor Version Two\obj\Debug\Basic Text Editor Version Two.exe
+c:\users\montgomr\documents\visual studio 2012\Projects\Training1\Basic Text Editor Version Two\Basic Text Editor Version Two\obj\Debug\Basic Text Editor Version Two.pdb
